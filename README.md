@@ -297,9 +297,10 @@ The student's name and USN were verified successfully.
 The application successfully demonstrates linking two Android Activities using an Explicit Intent.
 
 ### Output Screenshot
+<img width="732" height="1600" alt="MAD 4" src="https://github.com/user-attachments/assets/f039da2a-1ab2-4b34-b7e3-58d2505e4c82" />
+<img width="1080" height="2358" alt="mad exp 4 b" src="https://github.com/user-attachments/assets/698f828a-1288-406e-97a1-9b8dbdf93ab5" />
 
-<img width="365" alt="Sign in screen" src="screenshot1.png" />
-<img width="365" alt="Signed in successfully screen" src="screenshot2.png" />
+
 
 
 

@@ -2,8 +2,8 @@
 
 ## Student Details
 
-**Name:** Mohammed Kaif Ulla  
-**USN:** 25MCAR0226  
+**Name:** Tejas Sunil Waske  
+**USN:** 25MCAR0189  
 **Experiment No.:** 4
 
 ---
@@ -268,8 +268,8 @@ To verify the student's name and USN.
 
 ### Test Data
 
-**Name:** Mohammed Kaif Ulla  
-**USN:** 25MCAR0226
+**Name:** Tejas Sunil Waske  
+**USN:** 25MCAR0189
 
 ### Test Steps
 
@@ -297,10 +297,9 @@ The student's name and USN were verified successfully.
 The application successfully demonstrates linking two Android Activities using an Explicit Intent.
 
 ### Output Screenshot
-<img width="732" height="1600" alt="MAD 4" src="https://github.com/user-attachments/assets/f039da2a-1ab2-4b34-b7e3-58d2505e4c82" />
-<img width="1080" height="2358" alt="mad exp 4 b" src="https://github.com/user-attachments/assets/698f828a-1288-406e-97a1-9b8dbdf93ab5" />
 
-
+<img width="1080" height="2358" alt="screenshot401 png" src="https://github.com/user-attachments/assets/22212a60-36cf-45c3-862f-37991edf6e55" />
+<img width="1080" height="2358" alt="screenshot402 png" src="https://github.com/user-attachments/assets/84777e1f-0bb9-4c64-a76c-f769802e305f" />
 
 
 
@@ -370,17 +369,17 @@ Thus, the objective of implementing an Android application to demonstrate linkin
 
 # Student Information
 
-**Name:** Mohammed Kaif Ulla  
-**USN:** 25MCAR0226
+**Name:** Tejas Sunil Waske  
+**USN:** 25MCAR0189
 
 ---
 
 # GitHub Repository
 
-**Repository Name:** MAD LAB EXP 4
+**Repository Name:** MADExperiment4
 
 **GitHub Link:**  
-https://github.com/MohdKaifUlla/MAD-LAB-EXP-4
+https://github.com/twaske2-dotcom/MADExperiment4
 
 ---
 
@@ -394,5 +393,5 @@ https://github.com/MohdKaifUlla/MAD-LAB-EXP-4
 
 ## Author
 
-**Mohammed Kaif Ulla**  
-**USN:** 25MCAR0226
+**Tejas Sunil Waske**  
+**USN:** 25MCAR0189

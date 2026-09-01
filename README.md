@@ -2,8 +2,8 @@
 
 ## Student Details
 
-**Name:** Tejas Sunil Waske  
-**USN:** 25MCAR0189  
+**Name:** Mohammed Kaif ulla 
+**USN:** 25MCAR0226  
 **Experiment No.:** 4
 
 ---
@@ -298,11 +298,8 @@ The application successfully demonstrates linking two Android Activities using a
 
 ### Output Screenshot
 
-<img width="1080" height="2358" alt="screenshot401 png" src="https://github.com/user-attachments/assets/22212a60-36cf-45c3-862f-37991edf6e55" />
-<img width="1080" height="2358" alt="screenshot402 png" src="https://github.com/user-attachments/assets/84777e1f-0bb9-4c64-a76c-f769802e305f" />
-
-
-
+<img width="732" height="1600" alt="MAD 4" src="https://github.com/user-attachments/assets/7573d074-9057-402a-8a9a-f03a20163d4d" />
+<img width="1080" height="2358" alt="mad exp 4 b" src="https://github.com/user-attachments/assets/c770c918-b74f-46a8-96b5-487c955dab87" />
 
 ---
 
@@ -369,17 +366,17 @@ Thus, the objective of implementing an Android application to demonstrate linkin
 
 # Student Information
 
-**Name:** Tejas Sunil Waske  
-**USN:** 25MCAR0189
+**Name:** Mohammed Kaif ulla
+**USN:** 25MCAR0226
 
 ---
 
 # GitHub Repository
 
-**Repository Name:** MADExperiment4
+**Repository Name:** MAD LAB EXP 4
 
 **GitHub Link:**  
-https://github.com/twaske2-dotcom/MADExperiment4
+https://github.com/MohdKaifUlla/MAD-LAB-EXP-4
 
 ---
 
@@ -393,5 +390,5 @@ https://github.com/twaske2-dotcom/MADExperiment4
 
 ## Author
 
-**Tejas Sunil Waske**  
-**USN:** 25MCAR0189
+**Mohammed Kaif ulla**  
+**USN:** 25MCAR0226
